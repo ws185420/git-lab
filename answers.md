@@ -21,6 +21,15 @@ Date:   Fri Jan 21 14:07:11 2022 -0500
 
 Answer 9. One commit, 2 files "README.md, answers.md" 
 
+Answer 10. Not changed in local files
+
+Answer 11. Errors and not updated on local files
+
+Answer 12. Changed to Github version
+
+Answer 13. .  ..  .git  .gitignore  README.md
+
+
 
 
 
